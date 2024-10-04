@@ -51,7 +51,6 @@
   "navigation": [
     {
       "group": "Overview",
-      "icon": "book",
       "pages": [
         "introduction",
         "quickstart",
