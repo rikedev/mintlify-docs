@@ -51,9 +51,8 @@
   "navigation": [
     {
       "group": "Overview",
-      "icon": "discord",
       "pages": [
-        "introduction",
+        "introduction/discord",
         "quickstart",
         "development"
       ]
