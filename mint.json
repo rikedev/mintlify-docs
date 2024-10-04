@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "LabSquad",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -39,7 +39,7 @@
     },
     {
       "name": "Community",
-      "icon": "slack",
+      "icon": "discord",
       "url": "https://mintlify.com/community"
     },
     {
@@ -50,7 +50,8 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Overview",
+      "icon": "book",
       "pages": [
         "introduction",
         "quickstart",
