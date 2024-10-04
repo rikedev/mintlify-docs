@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "LabSquad",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Overview",
+      "group": "Get Start",
       "pages": [
         "introduction",
         "quickstart",
