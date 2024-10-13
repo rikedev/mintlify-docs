@@ -33,19 +33,19 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
+      "name": "Join our Discord",
+      "icon": "discord",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
-      "icon": "discord",
+      "name": "Documentation",
+      "icon": "book-open-cover",
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Follow us on Instagram",
+      "icon": "instagram",
+      "url": "https://instagram.com/godbotapp"
     }
   ],
   "navigation": [
