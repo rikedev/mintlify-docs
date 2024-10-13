@@ -13,6 +13,12 @@
       "to": "#07C983"
     }
   },
+   "theme": {
+    "default": "light",
+    "disableSwitch": true
+  
+   },
+
   "topbarLinks": [
     {
       "name": "Support",
