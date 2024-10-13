@@ -1,6 +1,7 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "LabSquad",
+  "theme": "venus",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
